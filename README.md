@@ -1,7 +1,6 @@
 # Backend
 
-Foobar is a Python library for dealing with word pluralization.
-
+REST API for the management of delivery man"
 ## Installation
 install python3.6 64 bit
 install postgreSQL 12
